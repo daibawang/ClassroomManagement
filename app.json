@@ -8,6 +8,7 @@
     "pages/demo/demo",
     "pages/question/question",
     "pages/record/record",
+    "pages/zz/zz",
     "pages/imfoopen/imfoopen"
   ],
   "window":{

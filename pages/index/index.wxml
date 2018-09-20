@@ -28,7 +28,7 @@
           <image src='../../images/left-borrow-img.png'></image>
         </view>
         <view class='left-introduce' data-href='../introduce/introduce' bindtap='go' >
-          <text class='select-text2'>教室介绍</text>
+          <text class='select-text2'>教室介绍 </text>
         </view>
         <view class='left-open' data-href='../imfoopen/imfoopen' bindtap='go' >
           <text class='select-text2'>信息公开</text>
